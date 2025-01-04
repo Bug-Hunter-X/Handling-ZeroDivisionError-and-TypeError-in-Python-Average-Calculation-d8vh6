@@ -1,0 +1,2 @@
+# Python Code: Handling ZeroDivisionError and TypeError
+This repository contains Python code that demonstrates a common programming error, the ZeroDivisionError, and shows how to handle it gracefully. It also addresses potential TypeErrors. The code calculates the average of a list of numbers, but it initially lacks error handling for empty lists and non-numeric input. The solution implements robust error handling and type checking to prevent these issues.  This is a great example for understanding defensive programming in Python.
